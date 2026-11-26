@@ -1,0 +1,16 @@
+{
+  "id": "hide-sidebar-recommendations",
+  "name": "隐藏侧边栏推荐内容",
+  "version": "1.0.0",
+  "description": "隐藏 Codex 侧边栏中的 Codex++「推荐内容」入口。停用拓展即可恢复。",
+  "engines": {
+    "codexpp": 1
+  },
+  "renderer": [
+    "renderer.js"
+  ],
+  "permissions": {
+    "routes": []
+  },
+  "repository": "130040167/codexpp-hide-sidebar-recommendations"
+}
